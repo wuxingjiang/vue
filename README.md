@@ -6,5 +6,11 @@
 * 高校
 
 ##  [声明式渲染](https://codepen.io/wuxingjiang/pen/BWrzRN)
-## vue的指令
-* 
+## 常用的vue的指令
+* v-text 
+* v-if
+* v-else
+* v-show
+* v-for
+* v-bind
+* v-model
