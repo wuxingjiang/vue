@@ -16,3 +16,4 @@
 * v-bind
 * v-model
 ## 生命周期
+## vue的状态管理工具 vuex
