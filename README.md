@@ -1,5 +1,5 @@
 # hello vue2.0!
-如何使用VUE，vue的插件！
+如何使用VUE，vue的插件，vue的组件化开发
 ## vue 特点！
 * 易用
 * 灵活
