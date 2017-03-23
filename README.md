@@ -6,6 +6,7 @@
 * 高校
 
 ##  [声明式渲染](https://codepen.io/wuxingjiang/pen/BWrzRN)
+## vue实例
 ## 常用的vue的指令
 * v-text 
 * v-if
@@ -14,3 +15,4 @@
 * v-for
 * v-bind
 * v-model
+## 生命周期
