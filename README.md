@@ -17,13 +17,15 @@
 * Meteor：Meteor只是一个极端，它是从前到后全都包含，从前端到数据层到数据库，全都帮你打包好。
 <hr/>
 <hr/>
+
 ## vue 特点！
 * 易用
 * 灵活
 * 高效
 * 文档易读
+
 ## *渐进式开发框架* 
-![Alt text](http://upload-images.jianshu.io/upload_images/1058258-fa85b93e56d6c1c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg)
+![渐进式开发框架](http://upload-images.jianshu.io/upload_images/1058258-fa85b93e56d6c1c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg)
 
 *  避免手动直接的操控DOM DOM随着状态变化而变化 
  
