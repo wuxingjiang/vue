@@ -8,15 +8,15 @@
 ## *渐进式开发框架* 
 ![Alt text](http://upload-images.jianshu.io/upload_images/1058258-fa85b93e56d6c1c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg)
 
- *  避免手动直接的操控DOM DOM随着状态变化而变化 
+*  避免手动直接的操控DOM DOM随着状态变化而变化 
  
- *  组件系统 
+*  组件系统 
  
- *  客户端路由 大型的单页面
+*  客户端路由 大型的单页面
  
- *  大规模应用，多个组件之间共享统一状态，
+*  大规模应用，多个组件之间共享统一状态，
  
- *  构建工具 提升前端开发效率
+*  构建工具 提升前端开发效率
  
  ## 主流框架分析
  ![主流框架](http://upload-images.jianshu.io/upload_images/1058258-31ed9b6eb0f19aee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg)
@@ -31,7 +31,7 @@
 
 * Ember：相比Angular，Ember做得就更加彻底，Ember信奉的是约定优于配置，它会将一切都帮你设计好打包好，你就开箱用就可以了。
 
-Meteor：Meteor只是一个极端，它是从前到后全都包含，从前端到数据层到数据库，全都帮你打包好。
+* Meteor：Meteor只是一个极端，它是从前到后全都包含，从前端到数据层到数据库，全都帮你打包好。
 ## 使用VUE
 ## 常用的vue的指令
 * v-text 
