@@ -43,10 +43,14 @@
 * jsx语法
 >> 拥有javascript特性 有利于逻辑判断
 * vue本身的响应式系统，追踪数据变化
->> ![追踪响应](http://upload-images.jianshu.io/upload_images/1058258-7e643d8fd694ed18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg)
-
+>> ![追踪响应](http://upload-images.jianshu.io/upload_images/1058258-7e643d8fd694ed18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg);
 ## 生命周期
  ![vue生命周期](https://cn.vuejs.org/images/lifecycle.png)
+## 组件系统 
+>> 把UI的结构映射到组件数
+>> props用于父子组件之间的通信,数据单向传递，子组件数据相对独立
+>> 单文件组件 基于构建工具
+## 客户端路由
 ## 路由管理<a target="_blank" href="http://router.vuejs.org/zh-cn/"> vue-router </a>
 ## vue的状态管理工具 <a target="_blank" href="https://vuex.vuejs.org/zh-cn/">vuex</a>
 ## 构建工具
