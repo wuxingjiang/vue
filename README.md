@@ -3,8 +3,9 @@
 ## vue 特点！
 * 易用
 * 灵活
-* 高校
-
+* 高效
+* 文档易读
+* 渐进式
 ##  [声明式渲染](https://codepen.io/wuxingjiang/pen/BWrzRN)
 ## vue实例
 ## 常用的vue的指令
