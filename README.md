@@ -57,3 +57,4 @@
 ## vue的状态管理工具 <a target="_blank" href="https://vuex.vuejs.org/zh-cn/">vuex</a>
 ## 构建工具 vue cli
 ## 服务端渲染
+## <a href="https://github.com/vuejs/vue-hackernews-2.0">官方例子</a>
