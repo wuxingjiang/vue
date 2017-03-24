@@ -37,15 +37,14 @@
  
 *  构建工具 提升前端开发效率
 
-## 使用VUE
-## 常用的vue的指令
-* v-text 
-* v-if
-* v-else
-* v-show
-* v-for
-* v-bind
-* v-model
+## VUE的渲染 虚拟DOM
+* 模版语法
+>> 贴近HTML 结构观察， css书写
+* jsx语法
+>> 拥有javascript特性 有利于逻辑判断
+* vue本身的响应式系统，追踪数据变化
+>> ![追踪响应](http://upload-images.jianshu.io/upload_images/1058258-7e643d8fd694ed18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg)
+
 ## 生命周期
  ![vue生命周期](https://cn.vuejs.org/images/lifecycle.png)
 ## 路由管理<a target="_blank" href="http://router.vuejs.org/zh-cn/"> vue-router </a>
