@@ -51,7 +51,7 @@
 
 >> props用于父子组件之间的通信,数据单向传递，子组件数据相对独立
 
->> 单文件组件 基于构建工具
+>> <a target="_blank"  href="https://cn.vuejs.org/v2/guide/single-file-components.html">单文件组件</a> 基于构建工具
 ## 客户端路由
 ## 路由管理<a target="_blank" href="http://router.vuejs.org/zh-cn/"> vue-router </a>
 ## vue的状态管理工具 <a target="_blank" href="https://vuex.vuejs.org/zh-cn/">vuex</a>
