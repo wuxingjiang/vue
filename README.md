@@ -48,7 +48,9 @@
  ![vue生命周期](https://cn.vuejs.org/images/lifecycle.png)
 ## 组件系统 
 >> 把UI的结构映射到组件数
+
 >> props用于父子组件之间的通信,数据单向传递，子组件数据相对独立
+
 >> 单文件组件 基于构建工具
 ## 客户端路由
 ## 路由管理<a target="_blank" href="http://router.vuejs.org/zh-cn/"> vue-router </a>
