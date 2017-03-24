@@ -5,7 +5,7 @@
 * 灵活
 * 高效
 * 文档易读
-## 渐进式开发框架 
+## *渐进式开发框架* 
 ![Alt text](http://upload-images.jianshu.io/upload_images/1058258-fa85b93e56d6c1c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg)
 
  *  避免手动直接的操控DOM DOM随着状态变化而变化 
@@ -31,4 +31,5 @@
 * v-model
 ## 生命周期
  ![vue生命周期](https://cn.vuejs.org/images/lifecycle.png)
+## 路由管理<a target="_blank" href="http://router.vuejs.org/zh-cn/"> vue-router </a>
 ## vue的状态管理工具 <a target="_blank" href="https://vuex.vuejs.org/zh-cn/">vuex</a>
